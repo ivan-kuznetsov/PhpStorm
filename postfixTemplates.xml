@@ -1,0 +1,74 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="while@userDefined" key=".while" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="while ($EXPR$) {&#10;    $END$&#10;}" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="compact@userDefined" key=".compact" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="compact($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="map@userDefined" key=".map" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="array_map(function ($END$) {&#10;&#10;}, $EXPR$);" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="com.jetbrains.php.postfixCompletion.PhpVarDumpPostfixTemplate#.var_dump" key=".d" provider="builtin.php" builtin="com.jetbrains.php.postfixCompletion.PhpVarDumpPostfixTemplate#.var_dump" />
+    <template id="toObject@userDefined" key=".toObject" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="json_decode(json_encode($EXPR$));" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="earr@userDefined" key=".earr" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="$EXPR$ = [];" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="range@userDefined" key=".rr" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="range(1, $EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="end@userDefined" key=".end" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="end($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="exists@userDefined" key=".exists" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="array_key_exists($END$, $EXPR$);" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="in@userDefined" key=".in" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="in_array($END$, $EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="yoda@userDefined" key=".eq" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="if('$END$' === $EXPR$) {&#10;    &#10;}" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="count@userDefined" key=".count" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="count($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="dd@userDefined" key=".dd" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="dd($EXPR$);" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="com.jetbrains.php.postfixCompletion.PhpReturnPostfixTemplate#.return" key=".ret" provider="builtin.php" builtin="com.jetbrains.php.postfixCompletion.PhpReturnPostfixTemplate#.return" />
+    <template id="empty@userDefined" key=".empty" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="empty($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="reduce@userDefined" key=".reduce" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="array_reduce($EXPR$, function () {&#10;return $END$;&#10;});" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="walk@userDefined" key=".walk" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="array_walk($EXPR$, function ($END$) {&#10;    &#10;});" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="filter@userDefined" key=".filter" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="array_filter($EXPR$, function () {&#10;return $END$;&#10;});" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="i@userDefined" key=".i" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="$EXPR$['$END$']" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

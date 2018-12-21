@@ -1,0 +1,18 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="New line">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="59:0">;</typing>
+      <action id="EditorEnter" />
+    </macro>
+    <macro name="Comma">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="59:0">;</typing>
+      <action id="EditorDown" />
+    </macro>
+    <macro name="Reformat&amp;Save">
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
