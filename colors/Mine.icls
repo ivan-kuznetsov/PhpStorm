@@ -4,7 +4,7 @@
     <property name="created">2018-10-08T02:35:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2018-12-27T23:19:11</property>
+    <property name="modified">2019-01-10T07:49:39</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -17,7 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="SauceCodePro Nerd Font Mono" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
