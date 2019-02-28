@@ -4,6 +4,7 @@
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern="subscriptions" type="PHP" />
       <mapping pattern="Permissionable" type="PHP" />
+      <mapping pattern="leaderboard" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
