@@ -81,6 +81,9 @@
   <action id="Macro.Comma">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Macro.Reformat&amp;Save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -106,6 +109,7 @@
   <action id="ReplaceInPath" />
   <action id="Resume" />
   <action id="SavaAs" />
+  <action id="SaveAll" />
   <action id="SetShortcutAction" />
   <action id="ShowIntentionActions" />
   <action id="ShowNavBar">
