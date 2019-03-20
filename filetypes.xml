@@ -4,6 +4,7 @@
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern="subscriptions" type="PHP" />
       <mapping pattern="Permissionable" type="PHP" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="leaderboard" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
