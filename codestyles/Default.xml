@@ -62,57 +62,7 @@
     </indentOptions>
     <arrangement>
       <groups />
-      <rules>
-        <section>
-          <rule>
-            <match>
-              <CONST>true</CONST>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <FIELD>true</FIELD>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <CONSTRUCTOR>true</CONSTRUCTOR>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <METHOD>true</METHOD>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <TRAIT>true</TRAIT>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <INTERFACE>true</INTERFACE>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <CLASS>true</CLASS>
-            </match>
-          </rule>
-        </section>
-      </rules>
+      <rules />
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
