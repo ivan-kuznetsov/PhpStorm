@@ -23,7 +23,7 @@
     </template>
     <template id="reduce@userDefined" key=".reduce" provider="builtin.php" topmost="false">
       <conditions />
-      <template name="fakeKey" value="array_reduce($EXPR$, function ($carry, $item) {&#10;return $END$;&#10;});" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="array_reduce($EXPR$, function ($carry, $item) {&#10;return $END$;&#10;});" description="" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="end@userDefined" key=".end" provider="builtin.php" topmost="false">
       <conditions />
@@ -61,6 +61,10 @@
     <template id="walk@userDefined" key=".walk" provider="builtin.php" topmost="false">
       <conditions />
       <template name="fakeKey" value="array_walk($EXPR$, function ($END$) {&#10;    &#10;});" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="eol@userDefined" key=".eol" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="$EXPR$ . PHP_EOL" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="filter@userDefined" key=".filter" provider="builtin.php" topmost="false">
       <conditions />
