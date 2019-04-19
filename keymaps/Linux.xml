@@ -53,6 +53,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
@@ -78,6 +81,9 @@
     <keyboard-shortcut first-keystroke="equals" />
   </action>
   <action id="IntroduceParameter" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="Macro.Comma">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
@@ -122,6 +128,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
