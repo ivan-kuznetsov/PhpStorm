@@ -40,6 +40,9 @@
   <action id="EditorLineStart" />
   <action id="EditorLookupUp" />
   <action id="EditorScrollUp" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="add" />
   </action>
