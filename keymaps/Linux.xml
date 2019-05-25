@@ -80,6 +80,9 @@
   <action id="Graph.ZoomIn">
     <keyboard-shortcut first-keystroke="equals" />
   </action>
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
   <action id="IntroduceParameter" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl l" />
