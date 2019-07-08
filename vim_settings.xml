@@ -17,6 +17,9 @@
         <mark key="." line="34" column="3" />
         <mark key="^" line="34" column="3" />
       </file>
+      <file name="$USER_HOME$/LocalProjects/chat/index.php" timestamp="1562620051449">
+        <mark key="[" line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/LocalProjects/education/ArrayX/app/Helpers/ArrayX.php" timestamp="1539478234592">
         <mark key="[" line="69" column="0" />
       </file>
@@ -62,7 +65,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
