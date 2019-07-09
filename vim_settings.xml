@@ -3,6 +3,9 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/LocalProjects/LaravelChat/app/Http/Controllers/Chat/ChatController.php" timestamp="1562629700429">
+        <mark key="[" line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/LocalProjects/education/ArrayX/index.php" timestamp="1539483038573">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="23" column="0" />
@@ -80,6 +83,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
