@@ -1,79 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/LocalProjects/LaravelChat/app/Http/Controllers/Chat/ChatController.php" timestamp="1562629700429">
-        <mark key="[" line="12" column="4" />
-      </file>
-      <file name="$USER_HOME$/LocalProjects/education/ArrayX/index.php" timestamp="1539483038573">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-        <mark key="^" line="24" column="30" />
-      </file>
-      <file name="$USER_HOME$/LocalProjects/education/ArrayX/app/Helpers/helpers.php" timestamp="1539478145473">
-        <mark key="'" line="36" column="25" />
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-        <mark key="^" line="34" column="3" />
-      </file>
-      <file name="$USER_HOME$/LocalProjects/chat/index.php" timestamp="1562620051449">
-        <mark key="[" line="18" column="7" />
-      </file>
-      <file name="$USER_HOME$/LocalProjects/education/ArrayX/app/Helpers/ArrayX.php" timestamp="1539478234592">
-        <mark key="[" line="69" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="20" column="9" filename="$USER_HOME$/LocalProjects/education/ArrayX/index.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/LocalProjects/education/ArrayX/index.php" />
-      <jump line="16" column="44" filename="$USER_HOME$/LocalProjects/education/ArrayX/app/Helpers/helpers.php" />
-      <jump line="12" column="0" filename="$USER_HOME$/LocalProjects/education/ArrayX/app/Helpers/helpers.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/LocalProjects/education/ArrayX/app/Helpers/helpers.php" />
-      <jump line="33" column="0" filename="$USER_HOME$/LocalProjects/education/ArrayX/app/Helpers/helpers.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/LocalProjects/education/ArrayX/app/Helpers/helpers.php" />
-      <jump line="32" column="0" filename="$USER_HOME$/LocalProjects/education/ArrayX/app/Helpers/helpers.php" />
-      <jump line="36" column="25" filename="$USER_HOME$/LocalProjects/education/ArrayX/app/Helpers/helpers.php" />
-    </jumps>
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">YXJyYXlfd2FsaygkYXJyYXksIGZ1bmN0aW9uICgmJHBlcnNvbikgewo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXJyYXlfd2FsaygkYXJyYXksIGZ1bmN0aW9uICgmJHBlcnNvbikgewo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEFycmF5WDo6Zm9yZ2V0KCRhcnJheSwgJGtleXMsICRoZWxsbyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEFycmF5WDo6Zm9yZ2V0KCRhcnJheSwgJGtleXMsICRoZWxsbyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>s</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
@@ -88,5 +15,11 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
