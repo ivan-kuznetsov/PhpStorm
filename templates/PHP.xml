@@ -4,6 +4,8 @@
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
+      <option name="PHP Interface Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
     </context>
   </template>
   <template name="prf" value="protected function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="protected function" toReformat="true" toShortenFQNames="true">
