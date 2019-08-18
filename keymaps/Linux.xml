@@ -56,6 +56,7 @@
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EditorUnSelectWord" />
   <action id="ExpandTreeNode" />
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoHome" />
@@ -101,11 +102,11 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="Macro.Comma">
-    <keyboard-shortcut first-keystroke="alt enter" />
-  </action>
   <action id="Macro.Reformat&amp;Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="Macro.web.php">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />

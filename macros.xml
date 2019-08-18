@@ -1,18 +1,13 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="New line">
-      <action id="EditorLineEnd" />
-      <typing text-keycode="59:0">;</typing>
-      <action id="EditorEnter" />
-    </macro>
-    <macro name="Comma">
-      <action id="EditorLineEnd" />
-      <typing text-keycode="59:0">;</typing>
-      <action id="EditorDown" />
-    </macro>
     <macro name="Reformat&amp;Save">
       <action id="ReformatCode" />
       <action id="SaveAll" />
+    </macro>
+    <macro name="web.php">
+      <action id="GotoFile" />
+      <typing text-keycode="87:0;69:0;66:0;46:0;80:0;72:0;80:0">web.php</typing>
+      <shortuct text="ENTER" />
     </macro>
   </component>
 </application>
