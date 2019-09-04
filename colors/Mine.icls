@@ -4,18 +4,12 @@
     <property name="created">2018-10-08T02:35:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.4.0.0</property>
-    <property name="modified">2019-09-04T15:21:48</property>
+    <property name="modified">2019-09-04T15:22:39</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Purisa" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="SauceCodePro Nerd Font Mono" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
