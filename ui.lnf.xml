@@ -2,4 +2,9 @@
   <component name="DependencyUISettings">
     <option name="UI_SHOW_FILES" value="false" />
   </component>
+  <component name="UISettings">
+    <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
+  </component>
 </application>
