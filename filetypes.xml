@@ -11,7 +11,10 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="adv" type="PLAIN_TEXT" />
+      <mapping pattern="form-main-page" type="PLAIN_TEXT" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
+      <mapping ext="xcuserstate" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
