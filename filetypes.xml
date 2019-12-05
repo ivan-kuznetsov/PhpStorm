@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="docker" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Permissionable" type="PHP" />
       <mapping pattern="subscriptions" type="PHP" />
       <mapping pattern="123" type="PLAIN_TEXT" />
@@ -11,11 +9,11 @@
       <mapping pattern="form-padding-150" type="PLAIN_TEXT" />
       <mapping pattern="leaderboard" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="banner" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="adv" type="PLAIN_TEXT" />
       <mapping pattern="form-main-page" type="PLAIN_TEXT" />
+      <mapping pattern="banner" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
