@@ -105,6 +105,9 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="Macro.Reformat&amp;Save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Macro.web.php">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -133,6 +136,7 @@
   <action id="ReplaceInPath" />
   <action id="Resume" />
   <action id="SavaAs" />
+  <action id="SaveAll" />
   <action id="SetShortcutAction" />
   <action id="ShowIntentionActions" />
   <action id="ShowNavBar">
