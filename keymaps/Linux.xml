@@ -20,6 +20,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="ChangesView.ShelveSilently" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -111,6 +112,7 @@
   <action id="Macro.web.php">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -133,7 +135,9 @@
     <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Replace" />
-  <action id="ReplaceInPath" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
   <action id="Resume" />
   <action id="SavaAs" />
   <action id="SaveAll" />
