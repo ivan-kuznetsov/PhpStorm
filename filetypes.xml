@@ -8,6 +8,7 @@
       <mapping pattern="form" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="form-padding-150" type="PLAIN_TEXT" />
+      <mapping pattern="evak" type="PLAIN_TEXT" />
       <mapping pattern="leaderboard" type="PLAIN_TEXT" />
       <mapping pattern="adv-manip" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
