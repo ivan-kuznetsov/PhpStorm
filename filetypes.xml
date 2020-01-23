@@ -8,24 +8,24 @@
       <mapping pattern="samosval" type="PLAIN_TEXT" />
       <mapping pattern="buldozer" type="PLAIN_TEXT" />
       <mapping pattern="form" type="PLAIN_TEXT" />
-      <mapping pattern="pogruzchik" type="PLAIN_TEXT" />
-      <mapping pattern="exakvator" type="PLAIN_TEXT" />
       <mapping pattern="arenda" type="PLAIN_TEXT" />
+      <mapping pattern="manipulator" type="PLAIN_TEXT" />
       <mapping pattern="form-padding-150" type="PLAIN_TEXT" />
       <mapping pattern="evak" type="PLAIN_TEXT" />
       <mapping pattern="banner3" type="PLAIN_TEXT" />
       <mapping pattern="banner2" type="PLAIN_TEXT" />
-      <mapping pattern="manipulator" type="PLAIN_TEXT" />
-      <mapping pattern="leaderboard" type="PLAIN_TEXT" />
+      <mapping pattern="pogruzchik" type="PLAIN_TEXT" />
       <mapping pattern="adv-manip" type="PLAIN_TEXT" />
       <mapping pattern="kamaz" type="PLAIN_TEXT" />
+      <mapping pattern="leaderboard" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="banner" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="exakvator" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="adv" type="PLAIN_TEXT" />
       <mapping pattern="exkavator-p" type="PLAIN_TEXT" />
       <mapping pattern="form-main-page" type="PLAIN_TEXT" />
-      <mapping pattern="banner" type="PLAIN_TEXT" />
       <mapping pattern="avtokran" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
