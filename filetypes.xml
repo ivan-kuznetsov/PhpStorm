@@ -8,6 +8,7 @@
       <mapping pattern="samosval" type="PLAIN_TEXT" />
       <mapping pattern="buldozer" type="PLAIN_TEXT" />
       <mapping pattern="form" type="PLAIN_TEXT" />
+      <mapping pattern="delete-footer" type="PLAIN_TEXT" />
       <mapping pattern="arenda" type="PLAIN_TEXT" />
       <mapping pattern="manipulator" type="PLAIN_TEXT" />
       <mapping pattern="form-padding-150" type="PLAIN_TEXT" />
