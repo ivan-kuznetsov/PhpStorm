@@ -9,10 +9,9 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="buldozer" type="PLAIN_TEXT" />
       <mapping pattern="manipulator" type="PLAIN_TEXT" />
+      <mapping pattern="adv-manip" type="PLAIN_TEXT" />
       <mapping pattern="form-main-page" type="PLAIN_TEXT" />
       <mapping pattern="form" type="PLAIN_TEXT" />
-      <mapping pattern="adv-manip" type="PLAIN_TEXT" />
-      <mapping pattern="avtokran" type="PLAIN_TEXT" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
@@ -21,6 +20,7 @@
       <mapping pattern="adv" type="PLAIN_TEXT" />
       <mapping pattern="form-padding-150" type="PLAIN_TEXT" />
       <mapping pattern="delete-footer" type="PLAIN_TEXT" />
+      <mapping pattern="avtokran" type="PLAIN_TEXT" />
       <mapping pattern="leaderboard" type="PLAIN_TEXT" />
       <mapping pattern="samosval" type="PLAIN_TEXT" />
       <mapping pattern="exkavator-p" type="PLAIN_TEXT" />
