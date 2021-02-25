@@ -24,9 +24,9 @@
       <mapping pattern="form-padding-150" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="avtokran" type="PLAIN_TEXT" />
-      <mapping pattern="123" type="PLAIN_TEXT" />
-      <mapping pattern="exkavator-p" type="PLAIN_TEXT" />
       <mapping pattern="pogruzchik" type="PLAIN_TEXT" />
+      <mapping pattern="exkavator-p" type="PLAIN_TEXT" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="arenda" type="PLAIN_TEXT" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
