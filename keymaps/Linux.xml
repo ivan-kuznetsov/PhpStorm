@@ -52,6 +52,7 @@
   </action>
   <action id="EditorLineStart" />
   <action id="EditorLookupUp" />
+  <action id="EditorPageUp" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="alt a" />
@@ -103,6 +104,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
   <action id="IntroduceParameter" />
+  <action id="List-scrollUp" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -134,13 +136,18 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="Resume" />
   <action id="SavaAs" />
   <action id="SaveAll" />
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="SetShortcutAction" />
   <action id="ShowIntentionActions" />
   <action id="ShowNavBar">
@@ -153,6 +160,8 @@
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="Table-scrollUpChangeSelection" />
+  <action id="TypeHierarchy" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push" />
