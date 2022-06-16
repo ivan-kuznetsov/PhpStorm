@@ -1,0 +1,50 @@
+<keymap version="1" name="MacOs" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="Console.TableResult.Reload" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="FindNext" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="SavaAs" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
+  <action id="Vcs.Log.Refresh" />
+</keymap>
