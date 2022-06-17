@@ -1,9 +1,18 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
   <action id="FileChooser.TogglePathBar" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
+  <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
