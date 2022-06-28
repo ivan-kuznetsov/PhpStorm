@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="ActivityHandlerTrait.php" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern="subscriptions" type="PHP" />
       <mapping pattern="Permissionable" type="PHP" />
